@@ -3,8 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\procedurals\\tilegeneratorgrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\procedurals\\tilegeneratorgrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\player\\playerassesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerassesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\assets\\scripts\\enemyfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\enemyfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +36,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "TileGeneratorGrass.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
@@ -28,6 +46,54 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:33:44.168Z",
               "EditorCaption": ""
+=======
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:50:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAssesories.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:48:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyFollower.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\EnemyFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFollower.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\EnemyFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyFollower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:33:59.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:45:47.535Z"
+>>>>>>> Stashed changes
             }
           ]
         }

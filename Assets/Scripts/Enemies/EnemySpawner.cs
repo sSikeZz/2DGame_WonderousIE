@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
@@ -12,13 +13,16 @@ public class EnemySpawner : MonoBehaviour
 
     public EnemyType[] enemies;
     public Transform[] spawnPoints;
-    public int maxEnemies = 10;
-    public float spawnInterval = 2f;
-    private int currentEnemyCount = 0;
+    public int maxEnemies;
+    public float spawnInterval;
+    private int currentEnemyCount;
 
-    void Start()
+    void Update()
     {
-        StartCoroutine(SpawnEnemies());
+        if(currentEnemyCount < maxEnemies)
+        {
+            StartCoroutine(SpawnEnemies());
+        }
     }
 
     IEnumerator SpawnEnemies()
@@ -26,9 +30,9 @@ public class EnemySpawner : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(spawnInterval);
+
             if (currentEnemyCount < maxEnemies)
             {
-                //Debug.Log("calling");
                 SpawnEnemy();
             }
         }
@@ -36,7 +40,7 @@ public class EnemySpawner : MonoBehaviour
 
     void SpawnEnemy()
     {
-        if (enemies.Length == 0 || spawnPoints.Length == 0)
+        if (spawnPoints.Length == 0)
             return;
 
         EnemyType selectedEnemy = GetRandomEnemy();
