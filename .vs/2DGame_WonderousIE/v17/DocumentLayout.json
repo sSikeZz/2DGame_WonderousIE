@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\procedurals\\tilegeneratormud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\procedurals\\tilegeneratormud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\procedurals\\tilegeneratorgrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\procedurals\\tilegeneratorgrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:01:13.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TileGeneratorMud.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorMud.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Procedurals\\TileGeneratorMud.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorMud.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Procedurals\\TileGeneratorMud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:34:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TileGeneratorGrass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:33:44.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
