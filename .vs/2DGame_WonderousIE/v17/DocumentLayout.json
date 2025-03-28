@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +14,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\procedurals\\tilegeneratorgrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\procedurals\\tilegeneratorgrass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\2dgame_wonderousie\\assets\\scripts\\enemies\\enemyfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\assets\\scripts\\player\\playerassesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE658ED2-A4AF-8502-BAB7-FB00B7207A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerassesories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -22,6 +35,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -35,10 +49,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:01:13.778Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyFollower.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Enemies\\EnemyFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyFollower.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Enemies\\EnemyFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyFollower.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:12:51.016Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "TileGeneratorMud.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorMud.cs",
@@ -48,11 +78,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:34:59.269Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:50:18.661Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
               "Title": "TileGeneratorGrass.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Procedurals\\TileGeneratorGrass.cs",
@@ -61,6 +103,16 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAswCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:33:44.168Z",
+=======
+              "Title": "PlayerAssesories.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\2DGame_WonderousIE\\Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAssesories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:48:53.146Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]

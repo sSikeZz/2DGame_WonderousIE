@@ -7,21 +7,17 @@ public class PlayerAssesories : MonoBehaviour
 {
     float Health;
     float FullHealth = 100f;
-    Collider2D[] enemies;
 
     void Start()
     {
         Health = FullHealth;
     }
 
-    void Update()
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        //for(int i = 0; i <= )
-
-        //KeyCode(W){
-        //    int f = 0;
-        //enemies[i] = Physics2D.OverlapCircle(this.transform.position, 2f);
-
-        //}
+        if (collision.CompareTag("Enemy"))
+        {
+            Destroy(gameObject);
+        }
     }
 }
